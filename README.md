@@ -2,6 +2,8 @@
 
 Projeto desenvolvido em Python para organizar arquivos automaticamente de acordo com suas extensões.
 
+Video: https://drive.google.com/file/d/1iAdK0wanhn1rCE9rL0OlbcmXrnqNvyvX/view?usp=sharing
+
 ## Funcionalidades
 
 - Criação automática de pastas
